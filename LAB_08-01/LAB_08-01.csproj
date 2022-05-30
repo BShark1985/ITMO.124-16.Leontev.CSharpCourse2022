@@ -10,7 +10,7 @@
     </ApplicationIcon>
     <AssemblyKeyContainerName>
     </AssemblyKeyContainerName>
-    <AssemblyName>CreateAccount</AssemblyName>
+    <AssemblyName>Constructors</AssemblyName>
     <AssemblyOriginatorKeyFile>
     </AssemblyOriginatorKeyFile>
     <DefaultClientScript>JScript</DefaultClientScript>
@@ -19,17 +19,18 @@
     <DelaySign>false</DelaySign>
     <NoStandardLibraries>false</NoStandardLibraries>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CreateAccount</RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <StartupObject>
     </StartupObject>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile />
-    <ProjectGuid>{09F2B0E3-87D6-4978-A91B-18144A759FD7}</ProjectGuid>
+    <ProjectGuid>{CC6EDF04-95DD-4192-8656-24AD828F3E65}</ProjectGuid>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\Debug\</OutputPath>
